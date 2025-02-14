@@ -30,12 +30,12 @@ EstevãoCars/
 
 3. Rode a aplicação:
    ```bash
-  baixe a extensão live server e clique em Go live no canto inferior direito do vscod
+     baixe a extensão live server e clique em Go live no canto inferior direito do vscod
    ```
 
 4. Acesse a aplicação no seu navegador, normalmente em:
    ```bash
-   http://127.0.0.1:5000
+   http://127.0.0.1:5500/
    ```
 🛠️ Funcionalidades Futuras
 - Filtros para pesquisa de produtos.
